@@ -5,9 +5,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("Va chier!");
+		System.out.println("JUSTIIIIIINnnnnnnnnnn");
 		
-		Patate();
+		System.out.println("BLUGFAWDawdawdw");
 	}
 
 }
